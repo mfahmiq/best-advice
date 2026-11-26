@@ -1,5 +1,9 @@
 # The Best Advice I Ever Got
 
+[![make.fun · u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/mfahmiq/best-advice/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/mfahmiq/best-advice/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+
 make.fun competition `u-pangg7-the-best-advice-i-ever-got-358cefb0` — one sentence, max 200 characters, about the best advice the writer ever received.
 
 ## Entry
@@ -22,5 +26,3 @@ Writes the entry to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output/entry.txt`
 - `entry.txt` — produced by running `main.py`.
 - `CANDIDATES.md` — the 16 candidates and the tournament bracket/results.
 - `LICENSE` — MIT.
-
-[![make.fun](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/c/u-pangg7-the-best-advice-i-ever-got-358cefb0)
